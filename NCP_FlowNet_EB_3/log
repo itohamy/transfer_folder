@@ -1,0 +1,407 @@
+/vilsrv-storage/tohamy/BNP/NCP_FlowNet_EB_3/globals.py:8: NeptuneDeprecationWarning: `init` is deprecated, use `init_run` instead. We'll end support of it in `neptune-client==1.0.0`. For details, see https://docs.neptune.ai/setup/neptune-client_1-0_release_changes
+  run = neptune.init(
+https://app.neptune.ai/itohamy/NCP-flownet/e/NCPFLOW-356
+WARNING:root:
+No checkpoint found at saved_models/Gauss2D/checkpoints-meta/checkpoint.pth. Returned the same state as input
+
+Restore model from iteration: 0
+
+Ploting sample, iteration 1.. 
+
+/vilsrv-storage/tohamy/BNP/NCP_FlowNet_EB_3/ncp.py:268: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  data = torch.tensor(data).float().to(self.device)
+Iteration:1 N: 41
+Iteration:2 N: 46
+Iteration:3 N: 72
+Iteration:4 N: 46
+Iteration:5 N: 58
+Iteration:6 N: 38
+Iteration:7 N: 67
+Iteration:8 N: 15
+Iteration:9 N: 21
+Iteration:10 N: 35
+Iteration:11 N: 33
+Iteration:12 N: 29
+Iteration:13 N: 44
+Iteration:14 N: 48
+Iteration:15 N: 44
+Iteration:16 N: 72
+Iteration:17 N: 6
+Iteration:18 N: 68
+Iteration:19 N: 34
+Iteration:20 N: 18
+Iteration:21 N: 31
+Iteration:22 N: 21
+Iteration:23 N: 34
+Iteration:24 N: 55
+Iteration:25 N: 55
+Iteration:26 N: 98
+Iteration:27 N: 91
+Iteration:28 N: 14
+Iteration:29 N: 28
+
+Ploting sample, iteration 30.. 
+
+Iteration:30 N: 43
+Iteration:31 N: 10
+Iteration:32 N: 42
+Iteration:33 N: 32
+Iteration:34 N: 87
+Iteration:35 N: 98
+Iteration:36 N: 71
+Iteration:37 N: 29
+Iteration:38 N: 50
+Iteration:39 N: 72
+Iteration:40 N: 74
+Iteration:41 N: 28
+Iteration:42 N: 41
+Iteration:43 N: 40
+Iteration:44 N: 12
+Iteration:45 N: 38
+Iteration:46 N: 68
+Iteration:47 N: 80
+Iteration:48 N: 89
+Iteration:49 N: 23
+Iteration:50 N: 10
+Iteration:51 N: 27
+Iteration:52 N: 33
+Iteration:53 N: 14
+Iteration:54 N: 34
+Iteration:55 N: 44
+Iteration:56 N: 24
+Iteration:57 N: 53
+Iteration:58 N: 78
+Iteration:59 N: 70
+
+Ploting sample, iteration 60.. 
+
+Iteration:60 N: 61
+Iteration:61 N: 54
+Iteration:62 N: 61
+Iteration:63 N: 6
+Iteration:64 N: 14
+Iteration:65 N: 69
+Iteration:66 N: 24
+Iteration:67 N: 99
+Iteration:68 N: 64
+Iteration:69 N: 92
+Iteration:70 N: 43
+Iteration:71 N: 47
+Iteration:72 N: 13
+Iteration:73 N: 37
+Iteration:74 N: 63
+Iteration:75 N: 65
+Iteration:76 N: 44
+Iteration:77 N: 94
+Iteration:78 N: 48
+Iteration:79 N: 51
+Iteration:80 N: 24
+Iteration:81 N: 92
+Iteration:82 N: 69
+Iteration:83 N: 15
+Iteration:84 N: 77
+Iteration:85 N: 19
+Iteration:86 N: 44
+Iteration:87 N: 6
+Iteration:88 N: 69
+Iteration:89 N: 15
+
+Ploting sample, iteration 90.. 
+
+Iteration:90 N: 55
+Iteration:91 N: 71
+Iteration:92 N: 75
+Iteration:93 N: 77
+Iteration:94 N: 66
+Iteration:95 N: 48
+Iteration:96 N: 68
+Iteration:97 N: 66
+Iteration:98 N: 44
+Iteration:99 N: 81
+\Saving model.. 
+
+Iteration:100 N: 77
+Iteration:101 N: 69
+Iteration:102 N: 76
+Iteration:103 N: 66
+Iteration:104 N: 63
+Iteration:105 N: 92
+Iteration:106 N: 43
+Iteration:107 N: 79
+Iteration:108 N: 95
+Iteration:109 N: 81
+Iteration:110 N: 44
+Iteration:111 N: 71
+Iteration:112 N: 20
+Iteration:113 N: 83
+Iteration:114 N: 17
+Iteration:115 N: 91
+Iteration:116 N: 87
+Iteration:117 N: 7
+Iteration:118 N: 29
+Iteration:119 N: 33
+
+Ploting sample, iteration 120.. 
+
+Iteration:120 N: 87
+Iteration:121 N: 64
+Iteration:122 N: 45
+Iteration:123 N: 29
+Iteration:124 N: 60
+Iteration:125 N: 31
+Iteration:126 N: 42
+Iteration:127 N: 25
+Iteration:128 N: 87
+Iteration:129 N: 14
+Iteration:130 N: 37
+Iteration:131 N: 49
+Iteration:132 N: 77
+Iteration:133 N: 5
+Iteration:134 N: 68
+Iteration:135 N: 14
+Iteration:136 N: 11
+Iteration:137 N: 54
+Iteration:138 N: 26
+Iteration:139 N: 13
+Iteration:140 N: 11
+Iteration:141 N: 24
+Iteration:142 N: 79
+Iteration:143 N: 82
+Iteration:144 N: 68
+Iteration:145 N: 21
+Iteration:146 N: 64
+Iteration:147 N: 66
+Iteration:148 N: 79
+Iteration:149 N: 85
+
+Ploting sample, iteration 150.. 
+
+Iteration:150 N: 28
+n:  24
+cs[n]:  tensor(0, dtype=torch.int32)
+E:  tensor([[-3.6209, -3.6053, -3.6081, -6.7803],
+        [-3.3504, -3.3421, -3.2824, -6.4950],
+        [-3.0007, -3.0319, -3.0019, -6.1650],
+        [-3.3896, -3.3999, -3.3650, -6.5589],
+        [-3.1324, -3.1507, -3.0871, -6.2966],
+        [-3.0734, -3.0774, -3.0086, -6.2293],
+        [-2.4037, -2.4216, -2.3704, -5.5045],
+        [-2.2315, -2.2579, -2.1663, -5.3100],
+        [-2.4801, -2.5158, -2.4425, -5.6328],
+        [-2.6541, -2.6581, -2.6006, -5.7862]], device='cuda:0',
+       grad_fn=<ViewBackward>)
+in edges (logprob):  tensor([[3.6209],
+        [3.3504],
+        [3.0007],
+        [3.3896],
+        [3.1324],
+        [3.0734],
+        [2.4037],
+        [2.2315],
+        [2.4801],
+        [2.6541]], device='cuda:0', grad_fn=<NegBackward>)
+sum out edges (log-sum-exp):  tensor([0.1188, 0.1187, 0.1205, 0.1182, 0.1184, 0.1181, 0.1261, 0.1279, 0.1206,
+        0.1211], device='cuda:0', grad_fn=<LogBackward>)
+in edges (probs):  tensor([[37.3694],
+        [28.5135],
+        [20.0993],
+        [29.6548],
+        [22.9284],
+        [21.6156],
+        [11.0644],
+        [ 9.3136],
+        [11.9420],
+        [14.2128]], device='cuda:0', grad_fn=<ExpBackward>)
+out edges (probs):  tensor([[0.0424, 0.0418, 0.0419, 1.0000],
+        [0.0431, 0.0427, 0.0403, 1.0000],
+        [0.0422, 0.0436, 0.0423, 1.0000],
+        [0.0420, 0.0425, 0.0410, 1.0000],
+        [0.0422, 0.0430, 0.0404, 1.0000],
+        [0.0426, 0.0428, 0.0399, 1.0000],
+        [0.0450, 0.0458, 0.0435, 1.0000],
+        [0.0460, 0.0473, 0.0431, 1.0000],
+        [0.0427, 0.0443, 0.0412, 1.0000],
+        [0.0436, 0.0438, 0.0414, 1.0000]], device='cuda:0',
+       grad_fn=<MulBackward0>)
+n:  25
+cs[n]:  tensor(0, dtype=torch.int32)
+E:  tensor([[-4.4855, -4.4611, -4.4490, -7.6301],
+        [-4.3731, -4.3778, -4.3009, -7.4999],
+        [-3.7961, -3.8289, -3.7822, -6.9416],
+        [-4.0907, -4.0974, -4.0604, -7.2470],
+        [-4.0582, -4.0838, -3.9770, -7.1933],
+        [-4.0379, -4.0377, -3.9902, -7.1994],
+        [-4.0610, -4.0789, -4.0050, -7.2152],
+        [-2.8309, -2.8521, -2.7889, -5.9877],
+        [-3.4820, -3.5130, -3.4541, -6.6444],
+        [-3.5694, -3.5811, -3.5227, -6.7313]], device='cuda:0',
+       grad_fn=<ViewBackward>)
+in edges (logprob):  tensor([[4.4855],
+        [4.3731],
+        [3.7961],
+        [4.0907],
+        [4.0582],
+        [4.0379],
+        [4.0610],
+        [2.8309],
+        [3.4820],
+        [3.5694]], device='cuda:0', grad_fn=<NegBackward>)
+sum out edges (log-sum-exp):  tensor([0.1193, 0.1211, 0.1222, 0.1193, 0.1206, 0.1179, 0.1191, 0.1194, 0.1197,
+        0.1183], device='cuda:0', grad_fn=<LogBackward>)
+in edges (probs):  tensor([[88.7170],
+        [79.2854],
+        [44.5264],
+        [59.7818],
+        [57.8686],
+        [56.7079],
+        [58.0309],
+        [16.9606],
+        [32.5254],
+        [35.4952]], device='cuda:0', grad_fn=<ExpBackward>)
+out edges (probs):  tensor([[0.0431, 0.0420, 0.0415, 1.0000],
+        [0.0439, 0.0441, 0.0408, 1.0000],
+        [0.0430, 0.0445, 0.0425, 1.0000],
+        [0.0426, 0.0429, 0.0413, 1.0000],
+        [0.0435, 0.0446, 0.0401, 1.0000],
+        [0.0424, 0.0424, 0.0404, 1.0000],
+        [0.0427, 0.0434, 0.0403, 1.0000],
+        [0.0426, 0.0435, 0.0408, 1.0000],
+        [0.0423, 0.0437, 0.0412, 1.0000],
+        [0.0423, 0.0428, 0.0404, 1.0000]], device='cuda:0',
+       grad_fn=<MulBackward0>)
+n:  26
+cs[n]:  tensor(0, dtype=torch.int32)
+E:  tensor([[-5.5250, -5.4914, -5.4823, -8.6473],
+        [-5.0818, -5.0885, -5.0539, -8.2419],
+        [-4.4784, -4.5040, -4.4701, -7.6393],
+        [-5.0748, -5.0810, -5.0172, -8.2237],
+        [-4.9255, -4.9385, -4.8798, -8.0881],
+        [-4.8117, -4.8103, -4.7487, -7.9640],
+        [-5.0104, -5.0256, -4.9577, -8.1708],
+        [-4.2466, -4.2678, -4.1844, -7.3849],
+        [-4.3540, -4.3825, -4.3263, -7.5176],
+        [-5.1578, -5.1573, -5.0984, -8.3049]], device='cuda:0',
+       grad_fn=<ViewBackward>)
+in edges (logprob):  tensor([[5.5250],
+        [5.0818],
+        [4.4784],
+        [5.0748],
+        [4.9255],
+        [4.8117],
+        [5.0104],
+        [4.2466],
+        [4.3540],
+        [5.1578]], device='cuda:0', grad_fn=<NegBackward>)
+sum out edges (log-sum-exp):  tensor([0.1212, 0.1190, 0.1204, 0.1192, 0.1183, 0.1183, 0.1184, 0.1208, 0.1195,
+        0.1191], device='cuda:0', grad_fn=<LogBackward>)
+in edges (probs):  tensor([[250.8876],
+        [161.0593],
+        [ 88.0950],
+        [159.9371],
+        [137.7598],
+        [122.9384],
+        [149.9664],
+        [ 69.8648],
+        [ 77.7859],
+        [173.7807]], device='cuda:0', grad_fn=<ExpBackward>)
+out edges (probs):  tensor([[0.0441, 0.0426, 0.0422, 1.0000],
+        [0.0424, 0.0427, 0.0413, 1.0000],
+        [0.0424, 0.0435, 0.0420, 1.0000],
+        [0.0429, 0.0432, 0.0405, 1.0000],
+        [0.0423, 0.0429, 0.0404, 1.0000],
+        [0.0428, 0.0427, 0.0401, 1.0000],
+        [0.0424, 0.0431, 0.0402, 1.0000],
+        [0.0434, 0.0443, 0.0407, 1.0000],
+        [0.0423, 0.0435, 0.0411, 1.0000],
+        [0.0430, 0.0430, 0.0405, 1.0000]], device='cuda:0',
+       grad_fn=<MulBackward0>)
+n:  27
+cs[n]:  tensor(0, dtype=torch.int32)
+E:  tensor([[-6.1923, -6.1710, -6.1724, -9.3377],
+        [-5.8939, -5.8916, -5.8571, -9.0435],
+        [-5.1698, -5.1943, -5.1625, -8.3156],
+        [-5.8155, -5.8168, -5.7818, -8.9664],
+        [-5.9197, -5.9323, -5.8276, -9.0365],
+        [-5.6196, -5.6127, -5.5427, -8.7525],
+        [-5.9572, -5.9690, -5.9134, -9.1097],
+        [-5.5352, -5.5511, -5.4890, -8.6822],
+        [-5.0183, -5.0455, -4.9852, -8.1699],
+        [-5.8224, -5.8277, -5.7758, -8.9715]], device='cuda:0',
+       grad_fn=<ViewBackward>)
+in edges (logprob):  tensor([[6.1923],
+        [5.8939],
+        [5.1698],
+        [5.8155],
+        [5.9197],
+        [5.6196],
+        [5.9572],
+        [5.5352],
+        [5.0183],
+        [5.8224]], device='cuda:0', grad_fn=<NegBackward>)
+sum out edges (log-sum-exp):  tensor([0.1199, 0.1195, 0.1221, 0.1196, 0.1218, 0.1198, 0.1195, 0.1202, 0.1206,
+        0.1195], device='cuda:0', grad_fn=<LogBackward>)
+in edges (probs):  tensor([[488.9621],
+        [362.8125],
+        [175.8764],
+        [335.4651],
+        [372.2939],
+        [275.7690],
+        [386.5186],
+        [253.4521],
+        [151.1497],
+        [337.7863]], device='cuda:0', grad_fn=<ExpBackward>)
+out edges (probs):  tensor([[0.0430, 0.0421, 0.0422, 1.0000],
+        [0.0429, 0.0428, 0.0413, 1.0000],
+        [0.0430, 0.0441, 0.0427, 1.0000],
+        [0.0428, 0.0429, 0.0414, 1.0000],
+        [0.0443, 0.0449, 0.0404, 1.0000],
+        [0.0436, 0.0433, 0.0404, 1.0000],
+        [0.0427, 0.0433, 0.0409, 1.0000],
+        [0.0430, 0.0437, 0.0410, 1.0000],
+        [0.0428, 0.0440, 0.0414, 1.0000],
+        [0.0429, 0.0431, 0.0409, 1.0000]], device='cuda:0',
+       grad_fn=<MulBackward0>)
+data_E:  tensor([[10.6623],
+        [10.6875],
+        [10.6791],
+        [10.6962],
+        [10.4886],
+        [10.5800],
+        [10.7061],
+        [10.6745],
+        [10.7074],
+        [10.6838]], device='cuda:0', grad_fn=<PowBackward0>)
+data_E_unlog:  tensor([[0.0382, 0.0380, 0.0382, 0.0380, 0.0393, 0.0387, 0.0379, 0.0381, 0.0379,
+         0.0380],
+        [0.0382, 0.0380, 0.0382, 0.0380, 0.0393, 0.0387, 0.0379, 0.0381, 0.0380,
+         0.0381],
+        [0.0381, 0.0379, 0.0381, 0.0379, 0.0392, 0.0386, 0.0378, 0.0380, 0.0379,
+         0.0380],
+        [0.0382, 0.0380, 0.0382, 0.0380, 0.0393, 0.0387, 0.0379, 0.0381, 0.0380,
+         0.0381],
+        [0.0381, 0.0380, 0.0381, 0.0379, 0.0392, 0.0386, 0.0378, 0.0381, 0.0379,
+         0.0380],
+        [0.0382, 0.0380, 0.0382, 0.0380, 0.0393, 0.0387, 0.0379, 0.0381, 0.0380,
+         0.0380],
+        [0.0382, 0.0380, 0.0382, 0.0380, 0.0393, 0.0387, 0.0379, 0.0381, 0.0380,
+         0.0381],
+        [0.0382, 0.0380, 0.0382, 0.0380, 0.0393, 0.0387, 0.0379, 0.0381, 0.0379,
+         0.0380],
+        [0.0382, 0.0380, 0.0381, 0.0380, 0.0393, 0.0386, 0.0379, 0.0381, 0.0379,
+         0.0380],
+        [0.0382, 0.0380, 0.0382, 0.0380, 0.0393, 0.0387, 0.0379, 0.0381, 0.0380,
+         0.0381]], device='cuda:0', grad_fn=<DivBackward0>)
+Warning: string series 'monitoring/stdout' value was longer than 1000 characters and was truncated. This warning is printed only once per series.
+last_MC_term:  tensor(2.0958, device='cuda:0', grad_fn=<MeanBackward0>)
+Traceback (most recent call last):
+  File "/vilsrv-storage/tohamy/BNP/NCP_FlowNet_EB_3/main.py", line 359, in <module>
+    main(args)
+  File "/vilsrv-storage/tohamy/BNP/NCP_FlowNet_EB_3/main.py", line 165, in main
+    1/0
+ZeroDivisionError: division by zero
+Shutting down background jobs, please wait a moment...
+Done!
+Waiting for the remaining 150 operations to synchronize with Neptune. Do not kill this process.
+All 150 operations synced, thanks for waiting!
+Explore the metadata in the Neptune app:
+https://app.neptune.ai/itohamy/NCP-flownet/e/NCPFLOW-356
